@@ -1,0 +1,104 @@
+div a img{
+height: 50px;
+width: 50px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #DE580D !important;
+    border-color: #DE580D !important;
+}
+.d-flex butt  {
+    background-color: #DE580D;
+}
+.btn {
+    background-color: #DE580D !important;
+    color: aliceblue;
+}
+.w-100 {
+    width: 50%!important;
+}
+.nav-item .nav-link{
+    color: black;
+}
+.services-btn {
+    color: #ffffff;
+    text-decoration: none;
+    border: #DE580D;
+}
+
+ .name{
+    width: 500px;
+    height: 45px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.email{
+    width: 500px;
+    height: 45px;
+    border-radius: 6px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+.address{
+    width: 500px;
+    height: 45px;
+    border-radius: 6px;
+    margin-left: 500px;
+}
+.card2{
+    color: #fff;
+    margin-left: 150px;
+    margin-top: 70px;
+    
+}
+.card3{
+    color: #fff;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.card4{
+    color: #fff;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+h1{
+    margin-top: 193px !important;
+    color: orangered;
+padding-left: 10px
+}
+
+p{
+    padding-left: 97px !important;
+    margin-top: 13px !important;
+    color: #854B4E;
+}
+.inner-buttom{
+    color: white;
+    background-color: #DE580D;
+    border: #DE580D;
+    margin-top: 20px;
+    width: 120px;
+    margin-left: 870px !important;
+}
+/* .col-lg-3{
+    background-color: lightsteelblue;
+} */
+.btn{
+    margin-left: 100px;
+}
+.btn-primary1{
+    margin-left: 40px;
+}
+ /* .nav-item a {
+   color: black;
+    text-decoration: none !important;
+    border: #DE580D !important;
+} */
+.card-body2{
+    color: aliceblue;
+}
+.col-lg-3{
+    background-color: lightblue;
+}
